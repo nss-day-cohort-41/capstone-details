@@ -33,6 +33,8 @@
    1. ERD, https://dbdiagram.io. Add to your project `README.md`.
    1. Wireframes - Plan/outline the components your project will need. Show the data relationship (props and state). You may hand draw or use a tool like https://moqups.com/, google docs or https://www.figma.com/. Add to your project `README.md`
 
+## Capstone Rules of Engagement
+******** [Check it out](rulesOfEngagement.md) ***********
 
 ### Cool and Helpful Stuff
 
