@@ -20,7 +20,9 @@ Overview of app:
 1. User-specific CRUD for runs completed
 1. User-specific calendar view of completed runs
 1. Add user-specific future events as “races”
-Dream Stretch Goals:
+
+
+## Dream Stretch Goals
 1. Display races differently than training runs
 1. Ability to upload photos for each run
 1. Other crap you might not get around to
